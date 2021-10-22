@@ -1,0 +1,5 @@
+
+
+#WP Import Export Rule
+User-agent: *
+Sitemap: https://fransnasmoco.github.io/sitemap.xml
